@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Check ready-to-deploy glass templates, toggles, inputs, and cards.
+  name: glassmorphism-ui-kit version: 1.0 type: Repository author: VarshuAi description: >   Check ready-to-deploy glass templates, toggles, inputs, and cards. primary_tech: CSS
 primary_tech: CSS
 ```
 
